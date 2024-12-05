@@ -1,0 +1,10 @@
+.redBox {
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+}
+.blueBox{
+    border: 1px solid blue;
+    padding: 10px ;
+    margin: 10px;
+}
